@@ -1,2 +1,2 @@
 # efx-gradle-plugins
-Plugins to support building eFX-Applications using gradle.
+Gradle plugins to support building eFX-Applications.
